@@ -1,0 +1,4823 @@
+==== Gradient check for skip-gram ====
+10.6045402604
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6138447488
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6189028018
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6215300396
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6228678135
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6235426901
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6238816196
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240514565
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241364678
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241789967
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242002669
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242109035
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242162221
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242188816
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242202113
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242208762
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242212086
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213748
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214579
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214995
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6093272986
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6139248721
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6183624615
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6211146719
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6226238281
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6234116223
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6238138171
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624016988
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241190918
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241702732
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241958963
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624208716
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242151278
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242183343
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242199376
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242207393
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242211402
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213406
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214408
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214909
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6762213494
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.647446754
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6351373836
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6295050579
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6268196827
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6255097064
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6248628972
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6245415375
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243813689
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243014123
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624261466
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242415009
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242315203
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242265305
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242240357
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242227884
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242221647
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242218529
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216969
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221619
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6656107737
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6439134797
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6338201377
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6289594185
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.626575178
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6253945407
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624807087
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6245140757
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243677488
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.62429463
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242580818
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242398105
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242306755
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242261082
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242238246
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242226828
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242221119
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242218265
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216838
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216124
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.619123972
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6166172468
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6191630101
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6213795941
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6227226032
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6234526086
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6238322125
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240256616
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241232976
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241723434
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241969232
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242092274
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624215383
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242184617
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242200013
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242207712
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242211561
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213486
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214448
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214929
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.5814021442
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6003318707
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6116742145
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6177994927
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6209737029
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6225884539
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6234027099
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6238115541
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240164048
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241189372
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241702302
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241958834
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242087117
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242151262
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242183336
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242199373
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242207392
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242211401
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213406
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214408
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.5889628835
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6057684067
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6147951447
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6194591376
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6218281311
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6230217956
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6236209097
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6239210359
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240712411
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241463792
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241839572
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242027484
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242121445
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242168427
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242191919
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242203664
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242209537
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242212474
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213942
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214676
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6687164687
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6429956321
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6327434248
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6282667165
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6261902605
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6251924433
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6247036291
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6244617444
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243414326
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242814343
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242514745
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242365045
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242290219
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242252813
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242234111
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242224761
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242220085
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242217748
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216579
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215995
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.7254378453
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.671200568
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6467843963
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6352690486
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6296865441
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6269393218
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6255767471
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6248982225
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6245596513
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243905385
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243060254
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242637796
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242426594
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242321
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242268205
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242241807
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242228609
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624222201
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221871
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221706
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6072830229
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6147482071
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6192387973
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6216692679
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6229302563
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6235721213
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.623895888
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240584789
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241399511
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241807313
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242011325
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242113358
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242164382
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242189896
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242202653
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242209032
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242212221
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213816
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214613
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215012
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.558818292
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.5860918273
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6037980446
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6136703971
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6188611823
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6215201746
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6228655623
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.623542228
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6238815536
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240514646
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241364821
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241790064
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242002724
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242109064
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242162236
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242188823
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242202117
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242208763
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242212087
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213749
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6319548397
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6250278282
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6238819573
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6238689272
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6239998894
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240994243
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241576656
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241888998
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242050446
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242132489
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624217384
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242194598
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242204997
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242210202
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242212806
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214108
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214759
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215085
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215248
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215329
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6305165699
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6265945855
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6252185649
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6246732004
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6244357232
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243257285
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242729099
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242470444
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242342474
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242278829
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242247092
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242231244
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242223325
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242219367
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242217389
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.62422164
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215905
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215658
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215534
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215472
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.669727826
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6449351915
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6340560732
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6290067455
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6265809463
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.625392922
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6248051483
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6245128235
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624367052
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242942639
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242578943
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242397156
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242306278
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242260843
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242238126
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242226768
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242221089
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221825
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221683
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221612
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.635817265
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6276393476
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6253451723
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624638408
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243939174
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624298738
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242578946
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624239157
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242302088
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242258399
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242236817
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242226092
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242220746
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242218077
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216743
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216077
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215743
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215577
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215494
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215452
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.5527156839
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.5853292799
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6039800283
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6139006404
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6190108939
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6216036482
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6229094498
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6235647089
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6238929283
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240571855
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624139351
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241804429
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242009912
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242112659
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242164034
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242189722
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242202566
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242208988
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242212199
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213805
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6773542053
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6496492731
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6366535776
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6303674619
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6272770225
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6257449177
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6249821391
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6246015676
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6244114862
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243164966
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242690146
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242452767
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242334086
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242274748
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242245079
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242230245
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242222827
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242219119
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242217265
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216337
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.74136972
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.679083774
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6507216522
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6372385669
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.630671768
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6274320798
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6258231664
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6250214426
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6246212641
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6244213456
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243214291
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242714815
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242465104
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242340255
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242277832
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242246621
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242231016
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242223213
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242219312
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242217361
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.7066117604
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6627858247
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6428389047
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6333631158
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6287504357
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6264755006
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.625345897
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6247830629
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6245021379
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243617984
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242916595
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242565977
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242390687
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242303047
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242259228
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242237319
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242226365
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242220888
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242218149
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221678
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6355948241
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6286213143
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6261022859
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6250824545
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6246321741
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6244219068
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243204868
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242707048
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242460456
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624233774
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242276527
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242245957
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624223068
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242223045
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242219227
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242217319
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216365
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215887
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215649
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221553
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6326726571
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6259533941
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624466955
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241894278
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241668143
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241845143
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242006124
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242104729
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624215856
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242186608
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242200915
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242208139
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242211769
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213588
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214499
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214954
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215182
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215296
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215353
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215382
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6200673797
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6189138735
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6207491465
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6222793272
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6231987574
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6236972084
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6239561368
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240880291
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241545826
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241880112
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242047634
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242131491
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242173443
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242194424
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242204917
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242210163
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242212787
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214099
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214754
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215082
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6467395442
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6341318973
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6288415116
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6264479834
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6253139097
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6247625164
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624490727
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243558087
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242885935
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242550469
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242382889
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242299137
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624225727
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624223634
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242225875
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242220642
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242218026
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216718
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216064
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215737
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6615577281
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6398283007
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6312636672
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6275527727
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6258397575
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6250188067
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6246172141
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6244186377
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243199044
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242706765
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242460972
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242338162
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242276779
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242246093
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242230751
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242223081
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242219245
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242217328
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216369
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221589
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6558552994
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6367257886
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6296346615
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6267169986
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6254163255
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6248056761
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6245102916
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243650868
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242931065
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242572719
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242393935
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624230464
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242260017
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242237712
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242226561
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242220985
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242218198
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216804
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216107
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215759
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.578304954
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6001868054
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6119368121
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6180125483
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6211004137
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6226568229
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6234381437
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6238295829
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240254971
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241235028
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241725179
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241970284
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242092845
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242154127
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242184768
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242200089
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624220775
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221158
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213495
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214453
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.5102356058
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.5640192088
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.5933217658
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6085724497
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6163472495
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6202719656
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6222436468
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6232318174
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6237264851
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6239739645
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240977406
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241596378
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241905887
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242060647
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242138028
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242176719
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242196065
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242205737
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242210574
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242212992
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6484145483
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6331254036
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6278647749
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6258396638
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6249795639
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6245877723
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624401459
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243107003
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242659207
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242436809
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242325984
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242270666
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624224303
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242229218
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242222314
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242218862
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242217136
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216273
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215842
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215626
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6063100741
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6142874805
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6190120246
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6215564129
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6228739153
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6235439665
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6238818139
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6240514425
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241364331
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6241789724
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624200253
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242108961
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242162183
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242188796
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242202103
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242208757
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242212084
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242213747
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214579
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242214994
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6394310876
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6282287871
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6253308029
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6245532323
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6243317342
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242627349
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242386636
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242292339
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242251704
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242233014
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242224077
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.624221971
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242217551
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242216479
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215944
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215677
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215544
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215477
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215444
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+10.6242215427
+<class 'numpy.float64'>
+10.624221541
+<class 'numpy.float64'>
+Gradient check passed!
+58.3892191052
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.0045609991
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.320421207
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.4803763016
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5608571658
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6012230523
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6214373118
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6315522646
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6366116961
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6391419005
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6404071248
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6410397675
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6413560965
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415142629
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415933466
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416328886
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416526596
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416625451
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416674878
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416699592
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.4262686346
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5137481564
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5726811124
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6059233403
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6234850451
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6325005946
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6370669852
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6393648272
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6405174088
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6410946147
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6413834464
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415279194
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416001703
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416362992
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416543646
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416633975
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641667914
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416701723
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416713015
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641671866
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.4464613782
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5298065827
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5821539314
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6110144347
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6261184654
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.633839172
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6377417281
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6397035605
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6406871158
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6411795532
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6414259369
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.64154917
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416107969
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416416129
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416570215
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641664726
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416685783
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416705044
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416714675
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416719491
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5058198055
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5714256951
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6059634648
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6236708915
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6326348169
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6371444028
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6394061102
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6405386936
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6411054179
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6413888882
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415306504
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416015382
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416369839
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416547071
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416635688
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416679997
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416702151
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416713229
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416718767
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416721537
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6085523661
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6207942546
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6301541598
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.635643671
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6385906741
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6401147124
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.640889362
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641279844
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6414758742
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415740867
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416232422
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416478323
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416601304
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416662802
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416693554
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641670893
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416716618
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416720462
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416722384
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416723345
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5149654051
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5751500314
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6076223617
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.624450649
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6330124149
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6373301495
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6394982227
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6405845599
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6411283036
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6414003192
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415363629
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416043938
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416384114
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416554208
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416639257
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416681781
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416703044
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416713675
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641671899
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416721648
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.0288281907
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.3289652298
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.4837548821
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5623236702
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6019006842
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6217622325
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6317112524
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.636690322
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6391809964
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6404266186
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6410495008
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6413609598
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415166937
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415945618
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416334961
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416529633
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641662697
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416675638
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416699972
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416712139
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.4706853441
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.544901092
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5904711133
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6153686337
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6283448629
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.634964745
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6383076144
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6399872794
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6408291693
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6412506285
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6414614867
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415669479
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416196866
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416460579
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416592441
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416658373
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416691339
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416707823
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416716064
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416720185
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7580777124
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6920174182
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6648564022
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6527643747
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.647093035
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6443513467
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6430040366
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6423362699
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6420038592
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418380222
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417551957
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417138055
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416931161
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416827729
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416776016
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416750161
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416737233
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641673077
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416727538
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416725922
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.0822191856
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.3560242706
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.49737271
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5691543511
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6053214285
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6234739509
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6325674476
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6371185035
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6393951082
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6405336797
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6411030327
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641387726
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415300769
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416012534
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416368419
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416546362
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416635334
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641667982
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416702063
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416713185
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6680582596
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6447861981
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.640714084
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6405652807
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6409619815
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6412780035
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6414654185
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415664752
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416188406
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416454825
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416589183
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416656649
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416690453
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416707374
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416715838
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416720072
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416722189
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416723247
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416723777
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416724041
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.3022692974
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.464202407
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5510044276
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5958564673
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6186441282
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.630128221
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.635892814
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6387807447
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6402261183
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6409491571
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6413107645
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6414915902
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415820086
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416272191
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416498248
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416611276
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416667791
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416696049
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416710177
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416717242
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+58.8955720015
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.2603467082
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.4489496735
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5447973296
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5931066138
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6173574767
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6295069449
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6355876859
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6386295578
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6401508691
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6409116186
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6412920168
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6414822217
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415773257
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641624878
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416486543
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416605424
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416664865
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416694586
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416709446
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7922454603
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7024881997
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6684226566
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6541285095
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6476701584
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.644613649
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6431286201
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6423969194
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6420337734
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418528766
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417625972
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417174998
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416949617
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416836953
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416780627
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416752466
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416738386
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416731346
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416727826
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416726066
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.4280136546
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5244752672
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5804777718
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6104257346
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6258867082
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6337389724
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6376955519
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6396814538
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6406763078
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6411742106
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641423281
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415478459
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416101358
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416412826
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416568564
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416646435
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641668537
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416704838
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416714572
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416719439
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+58.569203438
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.0933939625
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.3645677561
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5023847173
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5718454948
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6067132895
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6241814539
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6329240922
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6372975491
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6394848118
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6405785767
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6411254925
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6413989588
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641535694
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416040621
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416382463
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416553384
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416638845
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416681576
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416702941
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.9777853945
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.805288659
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7223560701
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6817314237
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6616310131
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6516339678
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6466487575
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6441594833
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6429156792
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6422939854
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6419831907
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418278063
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417501174
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417112737
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416918521
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416821413
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641677286
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416748583
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416736444
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416730375
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+60.1563619465
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.891274667
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7645039734
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.702591728
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6720074618
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6568087302
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6492327687
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6454506458
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6435610496
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6426166179
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6421444937
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6419084545
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417904407
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417314351
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417019328
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416871816
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416798061
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416761184
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416742745
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416733525
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+58.8099140489
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.2104437474
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.4221912069
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5309619288
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5860743445
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6138126355
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6277273398
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6346960862
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6381833086
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6399276321
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.640799972
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6412361865
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6414543048
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415633668
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416178985
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416451645
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416587975
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416656141
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416690223
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416707265
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.874276542
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7529536939
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6960472423
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6685421741
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6550277436
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.64833018
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6449963264
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6433331335
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6425024708
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6420873729
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418798823
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417761516
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417242899
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416983599
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416853952
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416789129
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416756717
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416740512
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416732409
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416728357
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7604566972
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6911305309
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6639364313
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.652190802
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.646778558
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6441872745
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6429203033
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6422939804
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6419826089
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418273706
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417498633
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417111376
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416917818
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416821056
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641677268
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416748492
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416736399
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416730353
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416727329
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416725818
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+58.5676588817
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.0906202184
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.3626684349
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5013056304
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.571273443
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6064191184
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6240323298
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6328490203
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6372598856
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6394659482
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6405691369
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6411207706
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6413965973
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415345131
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416034717
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416379511
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416551908
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416638107
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416681207
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416702756
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.8877099823
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7604893866
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.700015803
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6705760842
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6560570347
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6488479005
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6452559542
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6434631392
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6425675215
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6421199102
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418961539
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417842882
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417283583
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417003942
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416864123
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416794215
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641675926
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416741783
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416733045
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416728675
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7608869682
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6928430601
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6651650758
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6528979176
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.647155273
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.644381416
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6430188194
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6423435996
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6420075089
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418398432
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417561052
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.64171426
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416933433
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416828865
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416776584
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416750445
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416737375
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416730841
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416727573
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641672594
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+58.8552964087
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.233945918
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.4341765197
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5370170959
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5891180498
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6153385803
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6284913429
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6350783465
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6383745035
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6400232458
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6408477829
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6412600929
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6414662583
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415693436
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416208869
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416466587
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416595446
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416659876
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416692091
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416708199
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7328442966
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6819867184
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6605241858
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6507736543
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6461420983
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6438870563
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.642774695
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6422223011
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6419470505
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418096617
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417410264
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417067236
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416895759
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416810029
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416767167
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416745736
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416735021
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416729664
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416726985
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416725645
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7527056346
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6885035215
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6629395876
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6517720593
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6465891673
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6440975818
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6428767085
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.642272496
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641971945
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418220582
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641747212
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417098132
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416911199
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416817747
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416771025
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416747665
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416735986
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416730146
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416727226
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416725766
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+58.6831295582
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.1487935431
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.3918587496
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.515925904
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.5785897552
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6100788051
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6258625541
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6337642275
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6377175129
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6396947678
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6406835482
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6411779766
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6414252004
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6415488147
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416106225
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416415265
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416569785
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416647046
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416685676
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416704991
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.8303961044
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7304174797
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6846447301
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6628091774
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6521535446
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6468911848
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6442763585
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6429730325
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.642322391
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6419973257
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418348569
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417536384
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417130332
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416927316
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641682581
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416775058
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416749682
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416736994
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.641673065
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416727478
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.9985885205
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.8110080769
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.7240449591
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6822833391
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6618338739
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6517171292
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6466857717
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6441768488
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6429240766
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6422981128
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6419852365
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6418288248
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417506255
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6417115275
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416919789
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416822047
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416773176
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416748741
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416736524
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+59.6416730415
+<class 'numpy.float64'>
+59.6416724306
+<class 'numpy.float64'>
+Gradient check passed!
+
+=== Results ===
+(11.166109001533981, array([[ 0.        ,  0.        ,  0.        ],
+       [ 0.        ,  0.        ,  0.        ],
+       [-1.26947339, -1.36873189,  2.45158957],
+       [ 0.        ,  0.        ,  0.        ],
+       [ 0.        ,  0.        ,  0.        ]]), array([[-0.41045956,  0.18834851,  1.43272264],
+       [ 0.38202831, -0.17530219, -1.33348241],
+       [ 0.07009355, -0.03216399, -0.24466386],
+       [ 0.09472154, -0.04346509, -0.33062865],
+       [-0.13638384,  0.06258276,  0.47605228]]))
+(16.088781111544506, array([[ 0.        ,  0.        ,  0.        ],
+       [ 0.        ,  0.        ,  0.        ],
+       [-4.10571924, -2.90271921,  0.91301633],
+       [ 0.        ,  0.        ,  0.        ],
+       [ 0.        ,  0.        ,  0.        ]]), array([[-0.49853822,  0.22876535,  1.74016407],
+       [-0.32724523,  0.15016375,  1.14226025],
+       [-0.22764219,  0.10445868,  0.79459256],
+       [-0.31602611,  0.14501561,  1.10309954],
+       [-1.12868414,  0.51792184,  3.93970919]]))
