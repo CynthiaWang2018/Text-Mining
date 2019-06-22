@@ -1,0 +1,24 @@
+running here1
+running here2
+running here3
+Traceback (most recent call last):
+  File "main.py", line 19, in <module>
+    classifer = pickle.load(open('./5_models/5_modelsNaiveBayes.pkl', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: './5_models/5_modelsNaiveBayes.pkl'
+running here1
+running here2
+running here3
+running here4
+0.5946666666666667
+Most Informative Features
+                    4347 = True               -1 : +1     =     14.4 : 1.0
+                    相对困难 = True               -1 : +1     =     13.3 : 1.0
+                      两所 = True               -1 : +1     =     12.1 : 1.0
+                      自立 = True               -1 : +1     =     12.1 : 1.0
+                    责任重大 = True               -1 : +1     =     11.0 : 1.0
+None
+**************************************************
+**************************************************
+**************************************************
+**************************************************
+**************************************************
